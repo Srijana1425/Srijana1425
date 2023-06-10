@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coder GIF" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+<img align="right" alt="Coder GIF" width="400" src="https://camo.githubusercontent.com/77971436de10fd1707510a120094781a8a4fe68e79d4159d0bb1168161923470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a4b32574c4d5445784c79696461374f522e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijana1425&label=Profile%20views&color=0e75b6&style=flat" alt="srijana1425" /> </p>
 
