@@ -1,4 +1,4 @@
-![logo](https://github.com/Srijana1425/Srijana1425/blob/main/HI,%20i'm.jpg?raw=true)
+[![logo]()]
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
