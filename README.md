@@ -1,3 +1,4 @@
+<img align="center" alt="Coder GIF" src="https://camo.githubusercontent.com/77971436de10fd1707510a120094781a8a4fe68e79d4159d0bb1168161923470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a4b32574c4d5445784c79696461374f522e676966" />
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
