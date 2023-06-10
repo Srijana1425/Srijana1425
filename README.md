@@ -1,4 +1,4 @@
-[![logo]()]
+<img alt="Coder GIF" width="400" src=
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
