@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img src="https://github.com/Srijana1425/Srijana1425/blob/main/Srijana%20Thapa%20(1).png">
 </p>
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
