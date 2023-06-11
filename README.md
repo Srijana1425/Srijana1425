@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Srijana1425/Srijana1425/blob/main/Srijana%20Thapa%20(1).png">
-</p>
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+</video>
+
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
