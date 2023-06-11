@@ -1,8 +1,8 @@
 <p align="center">
   <img width="600" height="160" src="https://github.com/Srijana1425/Srijana1425/blob/main/Srijana%20Thapa%20(2).png">
 </p>
+<h3 align="center">A passionate frontend developer from India</h3><br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 Hey there,👋<br><br>
 My name is Srijana Thapa.I'm basically from Assam but currently staying in Arunachal Pradesh.I have done my master's in computer science and engineering in 2022 from North Eastern Regional Institute of Science and Technology (NERIST). I'm easy going person and love to do work in a Team.As a fresher wish to join reputed company and start my professional carrer.<br><br>
 
@@ -10,13 +10,10 @@ My name is Srijana Thapa.I'm basically from Assam but currently staying in Aruna
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijana1425&label=Profile%20views&color=0e75b6&style=flat" alt="srijana1425" /> </p>
 
-- 🌱 I’m currently learning **html, CSS, JavaScript and react.**
-
-- 📫 How to reach me **srijanathapa1998@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QarzHneNVEY0Ij-T3j3HXuZDMJ1Hif3O/view?usp=sharing](https://drive.google.com/file/d/1QarzHneNVEY0Ij-T3j3HXuZDMJ1Hif3O/view?usp=sharing)
-
-- ⚡ Fun fact **I love to do painting and watch movies based on real stories.**
+- :computer: I’m currently learning **html, CSS, JavaScript and react.**
+- :e-mail: How to reach me **srijanathapa1998@gmail.com**
+- :memo:[Resume](https://drive.google.com/file/d/1QarzHneNVEY0Ij-T3j3HXuZDMJ1Hif3O/view?usp=sharing)
+- ⚡ Hobbies/Intrest **I love to do  painting and watch movies based on real stories.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
