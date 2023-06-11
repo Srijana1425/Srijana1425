@@ -3,8 +3,8 @@
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-Hey there,<br>
-My name is Srijana Thapa.I'm basically from Assam but currently staying in Arunachal Pradesh.<br> I have done my master's in computer science and engineering in 2022 from North Eastern Regional Institute of Science and Technology (NERIST). I'm easy going person and love to do work in a Team.As a fresher wish to join reputed company and start my professional carrer.
+Hey there,👋<br><br>
+My name is Srijana Thapa.I'm basically from Assam but currently staying in Arunachal Pradesh.I have done my master's in computer science and engineering in 2022 from North Eastern Regional Institute of Science and Technology (NERIST). I'm easy going person and love to do work in a Team.As a fresher wish to join reputed company and start my professional carrer.<br><br>
 
 <img align="right" alt="Coder GIF" width="400" src="https://camo.githubusercontent.com/77971436de10fd1707510a120094781a8a4fe68e79d4159d0bb1168161923470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a4b32574c4d5445784c79696461374f522e676966" />
 
