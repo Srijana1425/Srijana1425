@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>
 <h1 align="center">Hi 👋, I'm Srijana Thapa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
