@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="600" height="160" src="https://github.com/Srijana1425/Srijana1425/blob/main/Srijana%20Thapa%20(2).png">
-</p>
+
 <h3 align="center">A passionate frontend developer from India</h3><br>
 
 Hey there,👋<br><br>
