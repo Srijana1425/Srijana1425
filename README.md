@@ -1,4 +1,4 @@
-<img align="center" alt="Coder GIF" width="400" src="" />
+<img align="center" alt="Coder GIF" width="400" src="https://github.com/Srijana1425/Srijana1425/blob/main/Srijana%20Thapa%20(2).png" />
 <h3 align="center">A passionate frontend developer from India</h3><br>
 
 Hey there,👋<br><br>
