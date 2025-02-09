@@ -4,7 +4,7 @@
 Hey there,👋<br><br>
 My name is Srijana Thapa.I'm basically from Assam but currently staying in Bengaluru.I have done my master's in computer science and engineering in 2022 from North Eastern Regional Institute of Science and Technology (NERIST). I'm easy going person and love to do work in a Team.As a fresher wish to join reputed company and start my professional career.<br><br>
 
-<img data-v-5e868365="" align="right" right-margin="50px" ata-test="v-img" src="https://cdn.dribbble.com/userupload/23210795/file/original-dd7cafe2966354bdb988929e8a44b1c7.gif" alt="" width="800" height="600" data-sizes="auto" draggable="false" class="v-img content-block border-radius-8 lazyautosizes ls-is-cached lazyloaded" sizes="206px">
+<img data-v-5e868365="" align="right" right-margin="-50px" ata-test="v-img" src="https://cdn.dribbble.com/userupload/23210795/file/original-dd7cafe2966354bdb988929e8a44b1c7.gif" alt="" width="800" height="600" data-sizes="auto" draggable="false" class="v-img content-block border-radius-8 lazyautosizes ls-is-cached lazyloaded" sizes="206px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijana1425&label=Profile%20views&color=0e75b6&style=flat" alt="srijana1425" /> </p>
 
