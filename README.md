@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coder GIF" width="400" src="" />
 <h3 align="center">A passionate frontend developer from India</h3><br>
 
 Hey there,👋<br><br>
