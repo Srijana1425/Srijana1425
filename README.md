@@ -8,7 +8,7 @@ My name is Srijana Thapa.I'm basically from Assam but currently staying in Benga
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijana1425&label=Profile%20views&color=0e75b6&style=flat" alt="srijana1425" /> </p>
 
-- :computer: I’m currently learning **html, CSS, JavaScript and react.**
+- :computer: I’m currently learning **html, CSS, JavaScript and react,SQl,Python,AWS**
 - :e-mail: How to reach me **srijanathapa1998@gmail.com**
 - :memo:[Resume](https://drive.google.com/file/d/1QarzHneNVEY0Ij-T3j3HXuZDMJ1Hif3O/view?usp=sharing)
 - ⚡ Hobbies/Intrest **I love to do  painting and watch movies based on real stories.**
